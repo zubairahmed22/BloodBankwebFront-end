@@ -1,0 +1,20 @@
+.DonnerCollection{
+    display: flex;
+    justify-content: space-around;
+    background-color: #170000;
+    flex-wrap: wrap;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+.blood{
+  font-weight: bold;
+}
+
+.DonnerCollection{
+  margin-bottom: 50px;
+}
+.App{
+  background-color: #170000;
+}

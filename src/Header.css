@@ -1,0 +1,86 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #170000;
+
+}
+
+.Menu{
+    display: flex;
+    margin-top: 40px;
+    
+}
+ul{
+    display: flex;
+    direction: none;
+    list-style-type: none;
+   
+}
+
+li{
+    margin-left: 20px;
+    margin-right: 20px;
+    list-style: none !important;
+    text-decoration: none !important;
+    letter-spacing: 1.5px;
+    
+    
+}
+
+.Logobox{
+    margin-top: 15px
+}
+.logo{
+ width: 50%;
+}
+
+.btn{
+    background-color: #E4001B;
+    border: none;
+    width: 90px;
+    border-radius: 30px;
+    height: 37px;
+    margin-top: -8px;
+    letter-spacing: 1.5px;
+    outline: none;
+    color: #D6D3D3;
+
+   
+}
+
+.btn:hover{
+   
+  
+    border-radius: 30px;
+    height: 37px;
+    margin-top: -8px;
+    letter-spacing: 1.5px;
+    outline: none;
+    background-color: #170000;
+    cursor: pointer;
+    border: 1px solid #E4001B ;
+   
+}
+
+.navlinkstyle{
+    color:  #E4001B !important;
+    list-style: none !important;
+    text-decoration: none !important;
+}
+
+.btn:hover{
+    color: #D6D3D3;
+   
+}
+.linkstyle:hover{
+    list-style: none !important;
+    text-decoration: none !important;
+    color: red !important;
+}
+
+a{
+    text-decoration: none;
+    color: #D6D3D3 !important;
+}

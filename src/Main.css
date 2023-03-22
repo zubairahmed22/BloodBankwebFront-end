@@ -1,0 +1,68 @@
+.container{
+    background-color: #170000;
+}
+
+.mainContainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Heading{
+    font-size: 45px;
+    color: #D6D3D3;
+    text-transform: uppercase;
+}
+
+.Para{
+    color: #D6D3D3;
+    font-size: 20px;
+    margin-top: 30px;
+    word-spacing: 2px;
+    letter-spacing: 1.5px;
+   
+}
+
+.textContainer{
+    margin-top: 150px;
+   
+}
+
+.textContainer > button{
+    width: 210px;
+    height: 65px;
+    margin-top: 40px;
+    border-radius: 100px;
+    background-color:#E4001B ;
+    border: none;
+    outline: none;
+    color: #D6D3D3;
+    letter-spacing: 1.5px;
+}
+
+.textContainer > button:hover{
+    width: 210px;
+    height: 65px;
+    margin-top: 40px;
+    border-radius: 100px;
+    margin-top: 40px;
+    color: #D6D3D3;
+    letter-spacing: 1.5px;
+    outline: none;
+    background-color: #170000;
+    cursor: pointer;
+    border: 1px solid #E4001B ;
+}
+
+.imagIllustrator{
+    width: 70%;
+    padding-bottom: 80px;
+    
+    
+}
+
+.illustrator_iamge{
+    margin-top: 140px;
+    display: flex;
+    justify-content: flex-end;
+    
+}

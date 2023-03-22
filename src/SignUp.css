@@ -1,0 +1,67 @@
+.SignUp{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: #170000;
+    
+  
+    
+}
+.inputSignIn{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+background-color: #FCD7D9;
+padding: 20px;
+
+}
+.Name{
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: #AF121B;
+    border-style: dotted ;
+    padding-left: 10px;
+    outline: none;
+}
+.signup_logo{
+    width: 120px;
+}
+.logo_div{
+    display: flex;
+    justify-content: center;
+}
+.title_div{
+    background-color: #AF121B;
+    padding: 30px;
+    
+}
+.title_div > h1,p{
+color: white;
+}
+
+.btnDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.signupBtn{
+    width: 100px;
+    height: 40px;
+    outline: none;
+    background-color: white;
+    border-radius: 5px;
+    border-color: #AF121B;
+    border-style: dotted ;
+    cursor: pointer;
+   color: #AF121B;
+    border-radius: 100px;
+}
+.signupBtn:hover{
+    background-color: #170000;
+    color: white;
+    
+
+}
